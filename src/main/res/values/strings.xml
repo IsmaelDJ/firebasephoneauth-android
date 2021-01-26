@@ -1,0 +1,16 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="champ_a_remplir">Champ à remplir</string>
+    <string name="veuillez_saisir_le_code_de_validation">Veuillez saisir le code de validation</string>
+    <string name="erreur_de_verification_reessayez_svp">Erreur de vérification, réessayez svp.</string>
+    <string name="patientez_svp">Patientez svp…</string>
+    <string name="logo_ismatech">logo ismatech</string>
+    <string name="authentification">Authentification</string>
+    <string name="entrez_votre_num_ro_de_t_l_phone">Entrez votre numéro de téléphone</string>
+    <string name="icone_phone">icone phone</string>
+    <string name="num_ro_de_t_l_phone">Numéro de téléphone</string>
+    <string name="continuer">Continuer</string>
+    <string name="icone_code">icone code</string>
+    <string name="code_de_validation">Code de validation</string>
+</resources>
