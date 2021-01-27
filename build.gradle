@@ -14,11 +14,21 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
+
+
+
 plugins {
     id 'com.android.library'
     id 'kotlin-android'
     id 'kotlin-kapt'
 }
+
+repositories {
+    google()
+    jcenter()
+    maven { url "https://jitpack.io" }
+}
+
 
 android {
     compileSdkVersion 30
